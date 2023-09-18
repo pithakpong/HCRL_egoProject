@@ -2,8 +2,6 @@
 
 ## How to Play the Game
 
-Follow these steps to enjoy the "HCRL_egoProject" game:
-
 1. **Upload Code with Unique Board (M5stack):**
    - Connect each M5stack device to your computer.
    - Upload the game code to each M5stack device, ensuring that each one has a unique board configuration.
@@ -29,8 +27,7 @@ Follow these steps to enjoy the "HCRL_egoProject" game:
    - After accessing the specified IP address, you can now enjoy the "HCRL_egoProject" game in your web browser.
 
 Ensure that all devices are correctly configured and connected to the "Kid" Wi-Fi network for the game to work seamlessly.
+
 Have fun playing!
 
-
 ![Alt Text](https://github.com/pithakpong/HCRL_egoProject/blob/main/IMG_3480.jpg)
-
