@@ -31,4 +31,9 @@ Follow these steps to enjoy the "HCRL_egoProject" game:
 Ensure that all devices are correctly configured and connected to the "Kid" Wi-Fi network for the game to work seamlessly.
 
 ![Alt Text](https://github.com/pithakpong/HCRL_egoProject/blob/main/IMG_3480.jpg)
+
+
+
+
+
 Have fun playing!
